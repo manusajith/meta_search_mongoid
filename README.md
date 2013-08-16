@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/meta_search_mongoid.png)](http://badge.fury.io/rb/meta_search_mongoid)
+
 # MetaSearchMongoid
 
 MetaSearch extended for mongoid
